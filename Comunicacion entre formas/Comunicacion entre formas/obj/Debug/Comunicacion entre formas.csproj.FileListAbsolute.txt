@@ -1,0 +1,11 @@
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Programas WIndows Forms\Comunicacion entre formas\Comunicacion entre formas\bin\Debug\Comunicacion entre formas.exe.config
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Programas WIndows Forms\Comunicacion entre formas\Comunicacion entre formas\bin\Debug\Comunicacion entre formas.exe
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Programas WIndows Forms\Comunicacion entre formas\Comunicacion entre formas\bin\Debug\Comunicacion entre formas.pdb
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Programas WIndows Forms\Comunicacion entre formas\Comunicacion entre formas\obj\Debug\Comunicacion entre formas.csprojAssemblyReference.cache
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Programas WIndows Forms\Comunicacion entre formas\Comunicacion entre formas\obj\Debug\Comunicacion_entre_formas.Form1.resources
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Programas WIndows Forms\Comunicacion entre formas\Comunicacion entre formas\obj\Debug\Comunicacion_entre_formas.Form2.resources
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Programas WIndows Forms\Comunicacion entre formas\Comunicacion entre formas\obj\Debug\Comunicacion_entre_formas.Properties.Resources.resources
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Programas WIndows Forms\Comunicacion entre formas\Comunicacion entre formas\obj\Debug\Comunicacion entre formas.csproj.GenerateResource.cache
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Programas WIndows Forms\Comunicacion entre formas\Comunicacion entre formas\obj\Debug\Comunicacion entre formas.csproj.CoreCompileInputs.cache
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Programas WIndows Forms\Comunicacion entre formas\Comunicacion entre formas\obj\Debug\Comunicacion entre formas.exe
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Programas WIndows Forms\Comunicacion entre formas\Comunicacion entre formas\obj\Debug\Comunicacion entre formas.pdb

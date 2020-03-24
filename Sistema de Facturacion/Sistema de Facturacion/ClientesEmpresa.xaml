@@ -1,0 +1,29 @@
+﻿<Window x:Class="Sistema_de_Facturacion.ClientesEmpresa"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignPaper}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sistema_de_Facturacion"
+        mc:Ignorable="d"
+        Title="ClientesEmpresa" Height="450" Width="800" WindowStartupLocation="CenterScreen" WindowState="Normal" WindowStyle="None" ResizeMode="NoResize">
+    <Grid>
+        <materialDesign:ColorZone Mode="PrimaryDark" Background="#FF474E51">
+            <StackPanel HorizontalAlignment="Right">
+                <Button Width="30" Height="30" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="0"  BorderBrush="#FFB9AFCB" Background="#FF50495B" Click="Button_Click" >
+                    <materialDesign:PackIcon Kind="WindowClose" Background="#FF4F4A4A"/>
+                </Button>
+            </StackPanel>
+
+        </materialDesign:ColorZone>
+        <TextBlock HorizontalAlignment="Left" Margin="10,6,0,0" TextWrapping="Wrap" Text="Clientes" VerticalAlignment="Top" FontSize="16" Foreground="#DDF3E7E7"/>
+        <DataGrid Name="ClientesActivos" HorizontalAlignment="Left" Height="368" Margin="23,62,0,0" VerticalAlignment="Top" Width="758" Focusable="False" IsHitTestVisible="True" SelectedIndex="1" Cursor="Arrow" FontSize="14" CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="False" CanUserResizeRows="False"/>
+
+
+    </Grid>
+</Window>

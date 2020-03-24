@@ -1,0 +1,33 @@
+﻿<Window x:Class="Sistema_de_Facturacion.Solicitud"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignPaper}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sistema_de_Facturacion"
+        mc:Ignorable="d"
+        Title="Solicitud" Height="510" Width="510" WindowStyle="None" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <materialDesign:ColorZone Mode="PrimaryDark" Background="#FF474E51">
+            <StackPanel HorizontalAlignment="Right">
+                <Button Width="30" Height="30" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="0"  BorderBrush="#FFB9AFCB" Background="#FF50495B" Click="Button_Click" >
+                    <materialDesign:PackIcon Kind="WindowClose" Background="#FF4F4A4A"/>
+                </Button>
+            </StackPanel>
+
+        </materialDesign:ColorZone>
+        <MenuItem Name="facturas" HorizontalAlignment="Left"  Header="Facturas" Margin="-11,30,0,453" Height="Auto" Click="facturas_Click" ></MenuItem>
+        <MenuItem Name="agregarClientes" HorizontalAlignment="Left"  Header="Agregar Cliente" Margin="65,30,0,453" Height="Auto" Click="agregarClientes_Click" ></MenuItem>
+        <MenuItem Name="ActivosClientes" HorizontalAlignment="Left"  Header="Clientes" Margin="185,30,0,453" Height="Auto" Click="ActivosClientes_Click"  ></MenuItem>
+
+        <TextBlock HorizontalAlignment="Left" Margin="10,6,0,0" TextWrapping="Wrap" Text="Sistema de Facturacion" VerticalAlignment="Top" FontSize="16" Foreground="#DDF3E7E7"/>
+        <Label Name="guardarUsuario" HorizontalAlignment="Left" Margin="10,474,0,0" VerticalAlignment="Top" Width="129" Height="26"/>
+
+
+    </Grid>
+</Window>

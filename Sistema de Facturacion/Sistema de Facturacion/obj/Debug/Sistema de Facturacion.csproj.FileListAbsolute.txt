@@ -1,0 +1,51 @@
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\Sistema de Facturacion.exe.config
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\Sistema de Facturacion.exe
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\Sistema de Facturacion.pdb
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\MaterialDesignColors.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\MaterialDesignColors.pdb
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.csprojAssemblyReference.cache
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Login.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\App.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion_MarkupCompile.cache
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion_MarkupCompile.lref
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\App.baml
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Login.baml
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.g.resources
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Sistema_de_Facturacion.Properties.Resources.resources
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.csproj.GenerateResource.cache
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.csproj.CopyComplete
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.exe
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.pdb
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Solicitud.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Solicitud.baml
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Factura.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Factura.baml
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\RegistrarCliente.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\RegistrarCliente.baml
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\ClientesEmpresa.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\ClientesEmpresa.baml
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\Xceed.Wpf.AvalonDock.pdb
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.pdb
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.pdb
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.pdb
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\Xceed.Wpf.Toolkit.pdb
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Productos.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollo en C#\Sistema de Facturacion\Sistema de Facturacion\obj\Debug\Productos.baml
